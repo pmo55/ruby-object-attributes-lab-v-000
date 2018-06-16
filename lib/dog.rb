@@ -8,8 +8,8 @@ end
 def name
   @name
 end
-def name=(new_name)
-new_name=@name
+def name=(fido)
+fido=@name
 end
 def breed=(new_breed)
   @breed=new_breed
