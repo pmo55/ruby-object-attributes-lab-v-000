@@ -1,2 +1,4 @@
-class Dog(name, breed)
+class Dog
+  
+  
   
